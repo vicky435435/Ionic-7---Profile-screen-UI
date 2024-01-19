@@ -1,0 +1,7 @@
+{
+  "name": "profileScreen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
